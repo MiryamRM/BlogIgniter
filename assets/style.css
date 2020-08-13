@@ -1,0 +1,15 @@
+.login-page{
+    background-image: url('../dist/img/photo2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: grayscale(50%);
+    backdrop-filter: opacity(60%);
+}
+.login-logo{
+    background-color: #007bff;
+    color:#fff;
+    border-radius: 5px;
+}
+.login-card-body{
+    border-radius: 5px;
+}
